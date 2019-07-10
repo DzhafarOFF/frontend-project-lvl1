@@ -7,3 +7,7 @@
 4. Working with CLI and build a simple console game that use JS.
 5. How to automate quality control of your project's code by [Code Climate](https://codeclimate.com).
 6. How to build in your project continuous integration practice by using [Travis CI](https://travis-ci.com/)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/27075846202965102e3e/maintainability)](https://codeclimate.com/github/DzhafarOFF/frontend-project-lvl1/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/27075846202965102e3e/test_coverage)](https://codeclimate.com/github/DzhafarOFF/frontend-project-lvl1/test_coverage)
