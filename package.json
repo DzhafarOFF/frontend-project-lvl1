@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "ProjectFirst",
   "bin": {
-    "brain-games": "dist/bin/brain-games.js"
+    "brain-games": "dist/bin/brain-games.js",
+    "brain-even": "dist/bin/brain-even.js"
   },
   "main": "index.js",
   "files": [
