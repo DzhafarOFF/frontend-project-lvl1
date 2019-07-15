@@ -12,5 +12,7 @@
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/27075846202965102e3e/test_coverage)](https://codeclimate.com/github/DzhafarOFF/frontend-project-lvl1/test_coverage)
 
+[![Build Status](https://travis-ci.org/DzhafarOFF/frontend-project-lvl1.svg?branch=master)](https://travis-ci.org/DzhafarOFF/frontend-project-lvl1)
+
 ## Usage example
 [Asciinema](https://asciinema.org/a/DZ7ilIp4U2gxJTL5VJiGf9ST7) - terminal session record.
