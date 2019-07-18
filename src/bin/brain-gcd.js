@@ -7,6 +7,7 @@ const userName = greeting('Find the greatest common divisor of given numbers.');
 // Min and max value of posible random number that can be crated in iter. From 1 to 99 for example.
 const minRandom = 1;
 const maxRandom = 100;
+// gcd function
 const gcd = (a, b) => {
   if (!b) {
     return a;
