@@ -15,4 +15,9 @@
 [![Build Status](https://travis-ci.org/DzhafarOFF/frontend-project-lvl1.svg?branch=master)](https://travis-ci.org/DzhafarOFF/frontend-project-lvl1)
 
 ## Usage example
-[Asciinema](https://asciinema.org/a/DZ7ilIp4U2gxJTL5VJiGf9ST7) - terminal session record.
+Showed by terminal session recorder [Asciinema](https://asciinema.org).
+1. [Asciinema for brain-even game.](https://asciinema.org/a/DZ7ilIp4U2gxJTL5VJiGf9ST7)
+2. [Asciinema for brain-calc game.](https://asciinema.org/a/9Kg3pZHHN5lSbaRo1RJrqYvPs)
+3. [Asciinema for brain-gcd game.](https://asciinema.org/a/j5kdzB26uAWLQNwsZlUPodRjJ)
+4. [Asciinema for brain-progression game.](https://asciinema.org/a/HF3NyqY89muAR5lciCuhbqCPb)
+5. [Asciinema for brain-prime game.](https://asciinema.org/a/sEteVoFMH0Wqgw6kFG6L2BAIY)
